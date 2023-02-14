@@ -5,11 +5,11 @@
 
 
 ### Contacts
-![[VK](https://vk.com/alex873)](https://img.shields.io/badge/-VK-4169E1?style=for-the-badge&logo=vk) ![[telegram](https://t.me/konroktor)](https://img.shields.io/badge/-telegram-1E90FF?style=for-the-badge&logo=telegram)
+[![VK](https://img.shields.io/badge/-VK-4169E1?style=for-the-badge&logo=vk)](https://vk.com/alex873) [![Telegram](https://img.shields.io/badge/-telegram-1E90FF?style=for-the-badge&logo=telegram)](https://t.me/konroktor)
 
 
 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokanov-alexandr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokanov-alexandr&show_icons=true&theme=tokyonight)]() [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokanov-alexandr&layout=compact&theme=tokyonight)]()
